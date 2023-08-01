@@ -3,7 +3,6 @@ import {
   AppBar,
   AppBarProps,
   Toolbar,
-  Box,
   Typography,
 } from "@mui/material";
 import { Outlet } from "react-router-dom";
